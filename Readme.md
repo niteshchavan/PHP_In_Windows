@@ -38,7 +38,11 @@ PHPIniDir "D:/BCA_PROJECT/PHP/php-8.3.7"
 DirectoryIndex index.php
 ```
 # Install Apache using below command 
-## Open CMD as Administrator and navigate to D:/BCA_PROJECT/PHP/httpd/Apache24/bin
+## Open CMD as Administrator and navigate to 
+```
+cd D:/BCA_PROJECT/PHP/httpd/Apache24/bin
+
+```
 ## Enter below command to install service
 ```
 httpd.exe -k install

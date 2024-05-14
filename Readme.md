@@ -19,6 +19,11 @@ https://www.apachelounge.com/download/VS17/binaries/httpd-2.4.59-240404-win64-VS
 D:\BCA_PROJECT\PHP\httpd\Apache24
 D:\BCA_PROJECT\PHP\php-8.3.7
 ```
+## Change envoirment variable in windows and add below under PATH
+```
+D:\BCA_PROJECT\PHP\php-8.3.7
+D:\BCA_PROJECT\PHP\httpd\Apache24\bin
+```
 # Configruration changes
 ## Change below line from D:\BCA_PROJECT\PHP\httpd\Apache24\conf\httpd.conf
 ```

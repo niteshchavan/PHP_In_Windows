@@ -1,6 +1,6 @@
-## Installing PHP in windows ##
+# Installing PHP in windows ##
 
-# Download PHP for windows from below link #
+## Download PHP for windows from below link #
 ```
 https://windows.php.net/download#php-8.3
 
@@ -24,7 +24,7 @@ D:\BCA_PROJECT\PHP\php-8.3.7
 ```
 Define SRVROOT "D:/BCA_PROJECT/PHP/httpd/Apache24"
 ```
-# Add below lines at the end of D:\BCA_PROJECT\PHP\httpd\Apache24\conf\httpd.conf
+## Add below lines at the end of D:\BCA_PROJECT\PHP\httpd\Apache24\conf\httpd.conf
 ```
 AddHandler application/x-httpd-php .php
 AddType application/x-httpd-php .php .html
@@ -33,8 +33,8 @@ PHPIniDir "D:/BCA_PROJECT/PHP/php-8.3.7"
 DirectoryIndex index.php
 ```
 # Install Apache using below command 
-# Open CMD as Administrator and navigate to D:/BCA_PROJECT/PHP/httpd/Apache24/bin
-# Enter below command to install service
+## Open CMD as Administrator and navigate to D:/BCA_PROJECT/PHP/httpd/Apache24/bin
+## Enter below command to install service
 ```
 httpd.exe -k install
 ```

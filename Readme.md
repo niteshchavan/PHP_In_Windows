@@ -47,4 +47,7 @@ cd D:/BCA_PROJECT/PHP/httpd/Apache24/bin
 ```
 httpd.exe -k install
 ```
-# Star the services from services.msc Apache2.4
+# Star the services from services.msc
+```
+Apache2.4
+```

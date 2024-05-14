@@ -7,7 +7,7 @@ https://windows.php.net/download#php-8.3
 https://windows.php.net/downloads/releases/php-8.3.7-Win32-vs16-x64.zip
 ```
 
-# Download Apache form below ling #
+# Download Apache form below link #
 ```
 https://www.apachelounge.com/download/
 

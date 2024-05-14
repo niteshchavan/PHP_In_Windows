@@ -19,8 +19,8 @@ https://www.apachelounge.com/download/VS17/binaries/httpd-2.4.59-240404-win64-VS
 D:\BCA_PROJECT\PHP\httpd\Apache24
 D:\BCA_PROJECT\PHP\php-8.3.7
 ```
-## Configruration changes
-# Change D:\BCA_PROJECT\PHP\httpd\Apache24\conf\httpd.conf
+# Configruration changes
+## Change below line from D:\BCA_PROJECT\PHP\httpd\Apache24\conf\httpd.conf
 ```
 Define SRVROOT "D:/BCA_PROJECT/PHP/httpd/Apache24"
 ```
